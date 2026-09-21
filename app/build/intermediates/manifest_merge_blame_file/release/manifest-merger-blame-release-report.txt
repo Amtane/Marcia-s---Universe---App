@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.marcias.universe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:3:5-67
+11-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:4:5-11:19
+14        android:extractNativeLibs="true"
+15        android:label="Marcia&apos;s Universe" >
+15-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:4:18-51
+16        <activity
+16-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:5:9-10:20
+17            android:name="com.marcias.universe.MainActivity"
+17-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:5:19-47
+18            android:exported="true" >
+18-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:5:48-71
+19            <intent-filter>
+19-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:6:13-9:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:7:17-69
+20-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:7:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:8:17-77
+22-->/storage/emulated/0/Download/Marcias-Universe-App/app/src/main/AndroidManifest.xml:8:27-74
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>

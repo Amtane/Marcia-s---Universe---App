@@ -1,0 +1,7 @@
+com.marcias.universe.app-pngs-0 /storage/emulated/0/Download/Marcias-Universe-App/app/build/generated/res/pngs/release
+com.marcias.universe.app-resValues-1 /storage/emulated/0/Download/Marcias-Universe-App/app/build/generated/res/resValues/release
+com.marcias.universe.app-packageReleaseResources-2 /storage/emulated/0/Download/Marcias-Universe-App/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.marcias.universe.app-packageReleaseResources-3 /storage/emulated/0/Download/Marcias-Universe-App/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.marcias.universe.app-merged_res-4 /storage/emulated/0/Download/Marcias-Universe-App/app/build/intermediates/merged_res/release
+com.marcias.universe.app-main-5 /storage/emulated/0/Download/Marcias-Universe-App/app/src/main/res
+com.marcias.universe.app-release-6 /storage/emulated/0/Download/Marcias-Universe-App/app/src/release/res
